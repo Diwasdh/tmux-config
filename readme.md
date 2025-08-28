@@ -1,6 +1,3 @@
-# This is a minimal tmux configuration file that sets up some basic options for a better user experience.
-# You can copy and paste this into your ~/.tmux.conf file to get started.
-
 # tmux-config
 
 My personal tmux configuration with a clean status bar, mouse support, and productivity-focused tweaks.
